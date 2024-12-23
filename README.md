@@ -46,8 +46,7 @@ dependencies:
 `conda env update –name [conda virtual environment name] –file environment.yml --prune`
 
 # Usage
-
-	1.	이 레포지토리를 클론한다.
-	2.	conda 환경을 생성/업데이트한다.
-	3.	데이터에 대한 매뉴얼을 읽으면서 데이터 자체를 이해한다.
-    4.  Jupyter Notebook 혹은 Python 스크립트로 분석을 진행한다.
+1.	이 레포지토리를 클론한다.
+2.	conda 환경을 생성/업데이트한다.
+3.	데이터에 대한 매뉴얼을 읽으면서 데이터 자체를 이해한다.
+4.  Jupyter Notebook 혹은 Python 스크립트로 분석을 진행한다.
